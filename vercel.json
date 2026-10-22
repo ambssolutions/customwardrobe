@@ -84,7 +84,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/concepts/index.html"
+      "destination": "/concepts/"
     }
   ]
 }
